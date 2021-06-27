@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ComponentNotRegistered" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="CHECK_ACTIONS" value="true" />
+      <option name="IGNORE_NON_PUBLIC" value="true" />
+    </inspection_tool>
+    <inspection_tool class="DevKitPropertiesQuotesValidation" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="DontUsePairConstructor" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="FileEqualsUsage" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="IncorrectParentDisposable" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="InspectionDescriptionNotFoundInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="InspectionMappingConsistency" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="InspectionUniqueToolbarId" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="InspectionUsingGrayColors" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="IntentionDescriptionNotFoundInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="LeakableMapKey" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PluginXmlCapitalization" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PluginXmlDynamicPlugin" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PluginXmlI18n" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PostfixTemplateDescriptionNotFound" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PsiElementConcatenation" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="QuickFixGetFamilyNameViolation" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="SerializableCtor" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="StatefulEp" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UElementAsPsi" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UndesirableClassUsage" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnsafeReturnStatementVisitor" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnsafeVfsRecursion" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UseCouple" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UseDPIAwareBorders" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UseDPIAwareInsets" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UseJBColor" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UsePrimitiveTypes" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UseVirtualFileEquals" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
